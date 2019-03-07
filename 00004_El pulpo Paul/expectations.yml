@@ -8,7 +8,7 @@ expectations:
   inspection: Uses:Mover
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity2:Defenderse
+  inspection: DeclaresComputationWithArity1:Defenderse
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Defenderse
   inspection: Uses:hay
