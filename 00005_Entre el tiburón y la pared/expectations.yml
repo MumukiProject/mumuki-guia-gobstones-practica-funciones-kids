@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Defenderse
+  inspection: UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Defenderse
+  inspection: Uses:Mover
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Defenderse
+  inspection: Uses:TirarTinta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Defenderse
+  inspection: Uses:Sumergirse
