@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LimpiarElMar
+  inspection: UsesWhile
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LimpiarElMar
+  inspection: Uses:hay
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hay
+  inspection: Uses:hayBolitas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hay
+  inspection: Uses:basura
