@@ -1,0 +1,1 @@
+La función `hay` nos servirá para saber si aún `hay basura` cuando estemos limpiando.

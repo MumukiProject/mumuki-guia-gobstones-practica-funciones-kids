@@ -1,9 +1,11 @@
 ---
-name: Práctica funciones kids
+name: Práctica funciones
 locale: es
 type: practice
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
-order: []
+order:
+- 1
 private: false
