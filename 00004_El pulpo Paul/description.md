@@ -1,5 +1,5 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-funciones-kids/master/assets/attires/config_1551988215749.json"></gs-attire>
-
+ 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-funciones-kids/master/assets/toolbox_1551985446801.xml"></gs-toolbox>
 
 Ahora que sacamos la basura del mar, los peces pueden nadar más tranquilos. Pero recordemos que en el mar también hay _presas y predadores_, y todos tienen algún mecanismo para defenderse u ocultarse. 
