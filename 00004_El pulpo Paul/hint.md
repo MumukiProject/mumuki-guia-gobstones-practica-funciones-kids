@@ -1,0 +1,1 @@
+Recordá que `opuesto` es una función con parámetro también que devuelve una dirección. Para agregar nuevos parámetros tenés el **+** y para usarlos tocá en la **manito**. :fist: 

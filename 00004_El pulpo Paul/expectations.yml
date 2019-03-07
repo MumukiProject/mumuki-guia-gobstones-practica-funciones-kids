@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity2:hay
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hay
+  inspection: Uses:Mover
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity2:Defenderse
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Defenderse
+  inspection: Uses:hay
