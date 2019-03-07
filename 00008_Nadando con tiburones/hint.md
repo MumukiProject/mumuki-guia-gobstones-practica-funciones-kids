@@ -1,0 +1,1 @@
+Recordá que tenés la función `puede mover y hay` con `color` y `dirección` para que no rompa :boom: y pueda ver si `hay` un `predador` en cierta dirección. En este caso nos interesan las cuatro: al `Norte`, `Sur`, `Este` y `Oeste`.
