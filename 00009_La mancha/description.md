@@ -6,4 +6,4 @@ Por suerte, la vida marina no se trata solo de escapar de predadores. También h
 
 ¡Juguemos un rato con el pulpo Paul y sus amigos y amigas!
 
-> Paul está jugando a la mancha con las otras especies marinas. Construí un `programa` para que `nade al Sur` hasta que `no se pueda mover` más (al Sur) `o bien` haya un pulpo para `tirarle tinta` y `sumergirse` (para dejar al otro pulpo con la mancha :stuck_out_tongue:) `o bien` haya kril para comer; porque también está hambriento y necesita energía para nadar.
+> Paul está jugando a las escondidas con los otros pulpos. Construí un programa para que `nade al Sur` hasta que `no se pueda mover` más (al Sur) `o` encuentre una planta donde esconderse `o bien`  encuentre kril para comer; porque también está hambriento y necesita energía para nadar.
