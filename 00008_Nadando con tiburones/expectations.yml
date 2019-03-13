@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: estáAcorralado
-  inspection: Uses:puedeMoverYHay
+  inspection: Uses:puedeMover_YHay_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
   inspection: Uses:estáAcorralado
